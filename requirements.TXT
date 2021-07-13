@@ -1,0 +1,4 @@
+os
+pyinstaller
+selenium
+kivy

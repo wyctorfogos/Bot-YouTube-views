@@ -1,0 +1,3578 @@
+('C:\\Users\\wycto\\OneDrive\\Área de Trabalho\\BOTS\\Bot '
+ 'Youtube\\build\\Bot_youtube_views\\PYZ-00.pyz',
+ [('win32com',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\struct.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\bz2.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\stat.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\configparser.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\signal.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\base64.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\runpy.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\gzip.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\optparse.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\typing.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\tty.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\csv.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\uuid.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\imp.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('kivy.uix.textinput',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\textinput.py',
+   'PYMODULE'),
+  ('kivy.uix',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\__init__.py',
+   'PYMODULE'),
+  ('kivy.lang',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lang\\__init__.py',
+   'PYMODULE'),
+  ('kivy.lang.parser',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lang\\parser.py',
+   'PYMODULE'),
+  ('kivy.resources',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\resources.py',
+   'PYMODULE'),
+  ('kivy.logger',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\logger.py',
+   'PYMODULE'),
+  ('kivy.lang.builder',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lang\\builder.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\cgi.py',
+   'PYMODULE'),
+  ('kivy.context',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\context.py',
+   'PYMODULE'),
+  ('kivy.factory',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\factory.py',
+   'PYMODULE'),
+  ('kivy.factory_registers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\factory_registers.py',
+   'PYMODULE'),
+  ('kivy.uix.boxlayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\boxlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.layout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\layout.py',
+   'PYMODULE'),
+  ('kivy.compat',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\compat.py',
+   'PYMODULE'),
+  ('kivy.core.text.markup',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\markup.py',
+   'PYMODULE'),
+  ('kivy.parser',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\parser.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('kivy.setupconfig',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\setupconfig.py',
+   'PYMODULE'),
+  ('kivy.core',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.bubble',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\bubble.py',
+   'PYMODULE'),
+  ('kivy.uix.scatter',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\scatter.py',
+   'PYMODULE'),
+  ('kivy.vector',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\vector.py',
+   'PYMODULE'),
+  ('kivy.uix.widget',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\widget.py',
+   'PYMODULE'),
+  ('kivy.core.image',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\__init__.py',
+   'PYMODULE'),
+  ('kivy.atlas',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\atlas.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('imghdr',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\imghdr.py',
+   'PYMODULE'),
+  ('kivy.event',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\event.py',
+   'PYMODULE'),
+  ('kivy.graphics',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.text',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_pango',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\text_pango.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.touchripple',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\touchripple.py',
+   'PYMODULE'),
+  ('kivy.uix.relativelayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\relativelayout.py',
+   'PYMODULE'),
+  ('kivy.uix.floatlayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\floatlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.cover',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\cover.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.emacs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\emacs.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.codenavigation',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\codenavigation.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.compoundselection',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\compoundselection.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.focus',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\focus.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.drag',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\drag.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.togglebutton',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\togglebutton.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.button',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\button.py',
+   'PYMODULE'),
+  ('kivy.utils',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\utils.py',
+   'PYMODULE'),
+  ('kivy.metrics',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\metrics.py',
+   'PYMODULE'),
+  ('kivy.core.window',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.vkeyboard',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\vkeyboard.py',
+   'PYMODULE'),
+  ('kivy.core.gl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\gl\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('kivy.modules',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__init__.py',
+   'PYMODULE'),
+  ('kivy.config',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\config.py',
+   'PYMODULE'),
+  ('kivy.clock',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\clock.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('kivy.cache',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\cache.py',
+   'PYMODULE'),
+  ('kivy.base',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\base.py',
+   'PYMODULE'),
+  ('kivy.input',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input.factory',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\factory.py',
+   'PYMODULE'),
+  ('kivy.input.provider',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\provider.py',
+   'PYMODULE'),
+  ('kivy.input.postproc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\postproc\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.calibration',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\postproc\\calibration.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.dejitter',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\postproc\\dejitter.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.retaintouch',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\postproc\\retaintouch.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.ignorelist',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\postproc\\ignorelist.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.tripletap',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\postproc\\tripletap.py',
+   'PYMODULE'),
+  ('kivy.input.postproc.doubletap',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\postproc\\doubletap.py',
+   'PYMODULE'),
+  ('kivy.input.providers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input.providers.leapfinger',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\leapfinger.py',
+   'PYMODULE'),
+  ('kivy.input.providers.androidjoystick',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\androidjoystick.py',
+   'PYMODULE'),
+  ('kivy.input.shape',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\shape.py',
+   'PYMODULE'),
+  ('kivy.input.providers.linuxwacom',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\linuxwacom.py',
+   'PYMODULE'),
+  ('kivy.input.providers.hidinput',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\hidinput.py',
+   'PYMODULE'),
+  ('kivy.input.providers.mtdev',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\mtdev.py',
+   'PYMODULE'),
+  ('kivy.lib.mtdev',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lib\\mtdev.py',
+   'PYMODULE'),
+  ('kivy.lib',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('kivy.input.providers.probesysfs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\probesysfs.py',
+   'PYMODULE'),
+  ('kivy.input.providers.mactouch',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\mactouch.py',
+   'PYMODULE'),
+  ('kivy.input.providers.wm_pen',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\wm_pen.py',
+   'PYMODULE'),
+  ('kivy.input.providers.wm_common',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\wm_common.py',
+   'PYMODULE'),
+  ('kivy.input.providers.wm_touch',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\wm_touch.py',
+   'PYMODULE'),
+  ('kivy.input.providers.mouse',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\mouse.py',
+   'PYMODULE'),
+  ('kivy.input.providers.tuio',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\providers\\tuio.py',
+   'PYMODULE'),
+  ('kivy.input.motionevent',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\input\\motionevent.py',
+   'PYMODULE'),
+  ('kivy.animation',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\animation.py',
+   'PYMODULE'),
+  ('kivy.uix.image',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\image.py',
+   'PYMODULE'),
+  ('kivy.loader',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\loader.py',
+   'PYMODULE'),
+  ('certifi',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('kivy.uix.button',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\button.py',
+   'PYMODULE'),
+  ('kivy.uix.label',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\label.py',
+   'PYMODULE'),
+  ('kivy.uix.gridlayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\gridlayout.py',
+   'PYMODULE'),
+  ('kivy.app',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\app.py',
+   'PYMODULE'),
+  ('kivy.uix.settings',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\settings.py',
+   'PYMODULE'),
+  ('kivy.uix.togglebutton',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\togglebutton.py',
+   'PYMODULE'),
+  ('kivy.uix.popup',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\popup.py',
+   'PYMODULE'),
+  ('kivy.uix.modalview',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\modalview.py',
+   'PYMODULE'),
+  ('kivy.uix.anchorlayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\anchorlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.scrollview',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\scrollview.py',
+   'PYMODULE'),
+  ('kivy.effects.dampedscroll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\effects\\dampedscroll.py',
+   'PYMODULE'),
+  ('kivy.effects',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\effects\\__init__.py',
+   'PYMODULE'),
+  ('kivy.effects.scroll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\effects\\scroll.py',
+   'PYMODULE'),
+  ('kivy.effects.kinetic',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\effects\\kinetic.py',
+   'PYMODULE'),
+  ('kivy.uix.stencilview',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\stencilview.py',
+   'PYMODULE'),
+  ('kivy.uix.filechooser',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\filechooser.py',
+   'PYMODULE'),
+  ('kivy.uix.screenmanager',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\screenmanager.py',
+   'PYMODULE'),
+  ('kivy.uix.tabbedpanel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\tabbedpanel.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\os.py',
+   'PYMODULE'),
+  ('kivy',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\text_sdl2.py',
+   'PYMODULE'),
+  ('kivy.core.spelling.spelling_osxappkit',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\spelling\\spelling_osxappkit.py',
+   'PYMODULE'),
+  ('kivy.core.spelling',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\spelling\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_dummy',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_dummy.py',
+   'PYMODULE'),
+  ('kivy.core.window.window_egl_rpi',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\window\\window_egl_rpi.py',
+   'PYMODULE'),
+  ('kivy.lib.vidcore_lite',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lib\\vidcore_lite\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.datamodel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recycleview\\datamodel.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recycleview\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_android',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\audio\\audio_android.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_gstplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\video\\video_gstplayer.py',
+   'PYMODULE'),
+  ('kivy.lib.gstplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lib\\gstplayer\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.codeinput',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\codeinput.py',
+   'PYMODULE'),
+  ('kivy.extras.highlight',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\extras\\highlight.py',
+   'PYMODULE'),
+  ('kivy.extras',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\extras\\__init__.py',
+   'PYMODULE'),
+  ('pygments.token',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\token.py',
+   'PYMODULE'),
+  ('pygments.lexers.agile',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\agile.py',
+   'PYMODULE'),
+  ('pygments.lexers.scripting',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\scripting.py',
+   'PYMODULE'),
+  ('pygments.lexers._lua_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_lua_builtins.py',
+   'PYMODULE'),
+  ('pygments.util',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\util.py',
+   'PYMODULE'),
+  ('pygments.lexers.factor',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\factor.py',
+   'PYMODULE'),
+  ('pygments.lexers.tcl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\tcl.py',
+   'PYMODULE'),
+  ('pygments.lexers.iolang',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\iolang.py',
+   'PYMODULE'),
+  ('pygments.lexers.d',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\d.py',
+   'PYMODULE'),
+  ('pygments.lexers.perl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\perl.py',
+   'PYMODULE'),
+  ('pygments.lexers.ruby',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ruby.py',
+   'PYMODULE'),
+  ('pygments.lexers.python',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\python.py',
+   'PYMODULE'),
+  ('pygments.unistring',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\unistring.py',
+   'PYMODULE'),
+  ('pygments.lexers.jvm',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\jvm.py',
+   'PYMODULE'),
+  ('pygments.lexers.lisp',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\lisp.py',
+   'PYMODULE'),
+  ('pygments.lexers._cl_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_cl_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexer.py',
+   'PYMODULE'),
+  ('chardet',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langrussianmodel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\langrussianmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('pygments.regexopt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\regexopt.py',
+   'PYMODULE'),
+  ('pygments.filters',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\filters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.plugin',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\plugin.py',
+   'PYMODULE'),
+  ('pygments.filter',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\filter.py',
+   'PYMODULE'),
+  ('pygments.formatters',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\__init__.py',
+   'PYMODULE'),
+  ('pygments.formatters._mapping',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\_mapping.py',
+   'PYMODULE'),
+  ('pygments.styles',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\__init__.py',
+   'PYMODULE'),
+  ('pygments.lexers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\__init__.py',
+   'PYMODULE'),
+  ('pygments.lexers._mql_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_mql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._stan_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_stan_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._tsql_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_tsql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._vbscript_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_vbscript_builtins.py',
+   'PYMODULE'),
+  ('pygments.modeline',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\modeline.py',
+   'PYMODULE'),
+  ('pygments.lexers._mapping',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_mapping.py',
+   'PYMODULE'),
+  ('pygments',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\__init__.py',
+   'PYMODULE'),
+  ('pygments.styles.default',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\default.py',
+   'PYMODULE'),
+  ('pygments.style',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\style.py',
+   'PYMODULE'),
+  ('pygments.styles.arduino',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\arduino.py',
+   'PYMODULE'),
+  ('pygments.styles.rrt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\rrt.py',
+   'PYMODULE'),
+  ('pygments.styles.bw',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\bw.py',
+   'PYMODULE'),
+  ('pygments.styles.inkpot',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\inkpot.py',
+   'PYMODULE'),
+  ('pygments.styles.friendly',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\friendly.py',
+   'PYMODULE'),
+  ('pygments.styles.borland',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\borland.py',
+   'PYMODULE'),
+  ('pygments.styles.solarized',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\solarized.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_dark',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\paraiso_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.monokai',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\monokai.py',
+   'PYMODULE'),
+  ('pygments.styles.manni',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\manni.py',
+   'PYMODULE'),
+  ('pygments.styles.trac',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\trac.py',
+   'PYMODULE'),
+  ('pygments.styles.autumn',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\autumn.py',
+   'PYMODULE'),
+  ('pygments.styles.material',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\material.py',
+   'PYMODULE'),
+  ('pygments.styles.lovelace',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\lovelace.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_light',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\stata_light.py',
+   'PYMODULE'),
+  ('pygments.styles.tango',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\tango.py',
+   'PYMODULE'),
+  ('pygments.styles.stata_dark',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\stata_dark.py',
+   'PYMODULE'),
+  ('pygments.styles.igor',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\igor.py',
+   'PYMODULE'),
+  ('pygments.styles.paraiso_light',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\paraiso_light.py',
+   'PYMODULE'),
+  ('pygments.styles.abap',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\abap.py',
+   'PYMODULE'),
+  ('pygments.styles.xcode',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\xcode.py',
+   'PYMODULE'),
+  ('pygments.styles.native',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\native.py',
+   'PYMODULE'),
+  ('pygments.styles.algol_nu',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\algol_nu.py',
+   'PYMODULE'),
+  ('pygments.styles.gruvbox',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\gruvbox.py',
+   'PYMODULE'),
+  ('pygments.styles.vim',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\vim.py',
+   'PYMODULE'),
+  ('pygments.styles.pastie',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\pastie.py',
+   'PYMODULE'),
+  ('pygments.styles.perldoc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\perldoc.py',
+   'PYMODULE'),
+  ('pygments.styles.sas',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\sas.py',
+   'PYMODULE'),
+  ('pygments.styles.zenburn',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\zenburn.py',
+   'PYMODULE'),
+  ('pygments.styles.vs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\vs.py',
+   'PYMODULE'),
+  ('pygments.styles.fruity',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\fruity.py',
+   'PYMODULE'),
+  ('pygments.styles.colorful',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\colorful.py',
+   'PYMODULE'),
+  ('pygments.styles.murphy',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\murphy.py',
+   'PYMODULE'),
+  ('pygments.styles.emacs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\emacs.py',
+   'PYMODULE'),
+  ('pygments.styles.rainbow_dash',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\rainbow_dash.py',
+   'PYMODULE'),
+  ('pygments.styles.algol',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\styles\\algol.py',
+   'PYMODULE'),
+  ('pygments.lexers.apl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\apl.py',
+   'PYMODULE'),
+  ('pygments.lexers.oberon',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\oberon.py',
+   'PYMODULE'),
+  ('pygments.lexers.ml',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ml.py',
+   'PYMODULE'),
+  ('pygments.lexers.julia',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\julia.py',
+   'PYMODULE'),
+  ('pygments.lexers._mysql_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_mysql_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.roboconf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\roboconf.py',
+   'PYMODULE'),
+  ('pygments.lexers.promql',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\promql.py',
+   'PYMODULE'),
+  ('pygments.lexers.futhark',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\futhark.py',
+   'PYMODULE'),
+  ('pygments.lexers.monte',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\monte.py',
+   'PYMODULE'),
+  ('pygments.lexers.pawn',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\pawn.py',
+   'PYMODULE'),
+  ('pygments.lexers.rdf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\rdf.py',
+   'PYMODULE'),
+  ('pygments.lexers.resource',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\resource.py',
+   'PYMODULE'),
+  ('pygments.lexers.solidity',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\solidity.py',
+   'PYMODULE'),
+  ('pygments.lexers.amdgpu',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\amdgpu.py',
+   'PYMODULE'),
+  ('pygments.lexers.snobol',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\snobol.py',
+   'PYMODULE'),
+  ('pygments.lexers.devicetree',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\devicetree.py',
+   'PYMODULE'),
+  ('pygments.lexers.j',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\j.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphviz',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\graphviz.py',
+   'PYMODULE'),
+  ('pygments.lexers.math',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\math.py',
+   'PYMODULE'),
+  ('pygments.lexers._stata_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_stata_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.zig',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\zig.py',
+   'PYMODULE'),
+  ('pygments.lexers._postgres_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_postgres_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.esoteric',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\esoteric.py',
+   'PYMODULE'),
+  ('pygments.lexers.nit',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\nit.py',
+   'PYMODULE'),
+  ('pygments.lexers.mime',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\mime.py',
+   'PYMODULE'),
+  ('pygments.lexers.mosel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\mosel.py',
+   'PYMODULE'),
+  ('pygments.lexers.sql',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\sql.py',
+   'PYMODULE'),
+  ('pygments.lexers.templates',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\templates.py',
+   'PYMODULE'),
+  ('pygments.lexers.theorem',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\theorem.py',
+   'PYMODULE'),
+  ('pygments.lexers.ncl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ncl.py',
+   'PYMODULE'),
+  ('pygments.lexers.prolog',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\prolog.py',
+   'PYMODULE'),
+  ('pygments.lexers.cddl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\cddl.py',
+   'PYMODULE'),
+  ('pygments.lexers.webmisc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\webmisc.py',
+   'PYMODULE'),
+  ('pygments.lexers.teal',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\teal.py',
+   'PYMODULE'),
+  ('pygments.lexers._usd_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_usd_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers._csound_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_csound_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.automation',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\automation.py',
+   'PYMODULE'),
+  ('pygments.lexers.felix',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\felix.py',
+   'PYMODULE'),
+  ('pygments.lexers.textedit',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\textedit.py',
+   'PYMODULE'),
+  ('pygments.lexers.clean',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\clean.py',
+   'PYMODULE'),
+  ('pygments.lexers.whiley',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\whiley.py',
+   'PYMODULE'),
+  ('pygments.lexers.thingsdb',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\thingsdb.py',
+   'PYMODULE'),
+  ('pygments.lexers.fortran',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\fortran.py',
+   'PYMODULE'),
+  ('pygments.lexers.objective',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\objective.py',
+   'PYMODULE'),
+  ('pygments.lexers.business',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\business.py',
+   'PYMODULE'),
+  ('pygments.lexers.shell',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\shell.py',
+   'PYMODULE'),
+  ('pygments.lexers.inferno',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\inferno.py',
+   'PYMODULE'),
+  ('pygments.lexers.usd',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\usd.py',
+   'PYMODULE'),
+  ('pygments.lexers.pony',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\pony.py',
+   'PYMODULE'),
+  ('pygments.lexers.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\css.py',
+   'PYMODULE'),
+  ('pygments.lexers.ampl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ampl.py',
+   'PYMODULE'),
+  ('pygments.lexers.grammar_notation',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\grammar_notation.py',
+   'PYMODULE'),
+  ('pygments.lexers.sgf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\sgf.py',
+   'PYMODULE'),
+  ('pygments.lexers.robotframework',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\robotframework.py',
+   'PYMODULE'),
+  ('pygments.lexers.slash',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\slash.py',
+   'PYMODULE'),
+  ('pygments.lexers.smv',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\smv.py',
+   'PYMODULE'),
+  ('pygments.lexers.erlang',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\erlang.py',
+   'PYMODULE'),
+  ('pygments.lexers.kuin',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\kuin.py',
+   'PYMODULE'),
+  ('pygments.lexers.hexdump',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\hexdump.py',
+   'PYMODULE'),
+  ('pygments.lexers.pointless',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\pointless.py',
+   'PYMODULE'),
+  ('pygments.lexers.diff',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\diff.py',
+   'PYMODULE'),
+  ('pygments.lexers.bibtex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\bibtex.py',
+   'PYMODULE'),
+  ('pygments.lexers.functional',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\functional.py',
+   'PYMODULE'),
+  ('pygments.lexers.pascal',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\pascal.py',
+   'PYMODULE'),
+  ('pygments.scanner',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\scanner.py',
+   'PYMODULE'),
+  ('pygments.lexers.configs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\configs.py',
+   'PYMODULE'),
+  ('pygments.lexers.algebra',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\algebra.py',
+   'PYMODULE'),
+  ('pygments.lexers.freefem',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\freefem.py',
+   'PYMODULE'),
+  ('pygments.lexers.qvt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\qvt.py',
+   'PYMODULE'),
+  ('pygments.lexers.xorg',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\xorg.py',
+   'PYMODULE'),
+  ('pygments.lexers._lasso_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_lasso_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.unicon',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\unicon.py',
+   'PYMODULE'),
+  ('pygments.lexers.teraterm',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\teraterm.py',
+   'PYMODULE'),
+  ('pygments.lexers.testing',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\testing.py',
+   'PYMODULE'),
+  ('pygments.lexers.sas',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\sas.py',
+   'PYMODULE'),
+  ('pygments.lexers.crystal',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\crystal.py',
+   'PYMODULE'),
+  ('pygments.lexers.html',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\html.py',
+   'PYMODULE'),
+  ('pygments.lexers.text',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\text.py',
+   'PYMODULE'),
+  ('pygments.lexers.matlab',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\matlab.py',
+   'PYMODULE'),
+  ('pygments.lexers.int_fiction',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\int_fiction.py',
+   'PYMODULE'),
+  ('pygments.lexers.ezhil',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ezhil.py',
+   'PYMODULE'),
+  ('pygments.lexers.graph',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\graph.py',
+   'PYMODULE'),
+  ('pygments.lexers.trafficscript',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\trafficscript.py',
+   'PYMODULE'),
+  ('pygments.lexers._scilab_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_scilab_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.idl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\idl.py',
+   'PYMODULE'),
+  ('pygments.lexers.actionscript',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\actionscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.console',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\console.py',
+   'PYMODULE'),
+  ('pygments.lexers._openedge_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_openedge_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.ecl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ecl.py',
+   'PYMODULE'),
+  ('pygments.lexers.chapel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\chapel.py',
+   'PYMODULE'),
+  ('pygments.lexers.tnt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\tnt.py',
+   'PYMODULE'),
+  ('pygments.lexers.arrow',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\arrow.py',
+   'PYMODULE'),
+  ('pygments.lexers.hdl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\hdl.py',
+   'PYMODULE'),
+  ('pygments.lexers.haskell',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\haskell.py',
+   'PYMODULE'),
+  ('pygments.lexers.data',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\data.py',
+   'PYMODULE'),
+  ('pygments.lexers.varnish',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\varnish.py',
+   'PYMODULE'),
+  ('pygments.lexers.elm',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\elm.py',
+   'PYMODULE'),
+  ('pygments.lexers.rnc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\rnc.py',
+   'PYMODULE'),
+  ('pygments.lexers.foxpro',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\foxpro.py',
+   'PYMODULE'),
+  ('pygments.lexers.csound',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\csound.py',
+   'PYMODULE'),
+  ('pygments.lexers.x10',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\x10.py',
+   'PYMODULE'),
+  ('pygments.lexers.verification',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\verification.py',
+   'PYMODULE'),
+  ('pygments.lexers.igor',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\igor.py',
+   'PYMODULE'),
+  ('pygments.lexers.ride',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ride.py',
+   'PYMODULE'),
+  ('pygments.lexers.nix',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\nix.py',
+   'PYMODULE'),
+  ('pygments.lexers.dotnet',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\dotnet.py',
+   'PYMODULE'),
+  ('pygments.lexers.scdoc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\scdoc.py',
+   'PYMODULE'),
+  ('pygments.lexers.parasail',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\parasail.py',
+   'PYMODULE'),
+  ('pygments.lexers.floscript',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\floscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.sieve',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\sieve.py',
+   'PYMODULE'),
+  ('pygments.lexers.urbi',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\urbi.py',
+   'PYMODULE'),
+  ('pygments.lexers.rebol',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\rebol.py',
+   'PYMODULE'),
+  ('pygments.lexers.supercollider',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\supercollider.py',
+   'PYMODULE'),
+  ('pygments.lexers.stata',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\stata.py',
+   'PYMODULE'),
+  ('pygments.lexers.nimrod',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\nimrod.py',
+   'PYMODULE'),
+  ('pygments.lexers.capnproto',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\capnproto.py',
+   'PYMODULE'),
+  ('pygments.lexers.webassembly',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\webassembly.py',
+   'PYMODULE'),
+  ('pygments.lexers.compiled',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\compiled.py',
+   'PYMODULE'),
+  ('pygments.lexers.yang',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\yang.py',
+   'PYMODULE'),
+  ('pygments.lexers._cocoa_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_cocoa_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.php',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\php.py',
+   'PYMODULE'),
+  ('pygments.lexers.go',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\go.py',
+   'PYMODULE'),
+  ('pygments.lexers.dsls',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\dsls.py',
+   'PYMODULE'),
+  ('pygments.lexers.modeling',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\modeling.py',
+   'PYMODULE'),
+  ('pygments.lexers.special',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\special.py',
+   'PYMODULE'),
+  ('pygments.lexers.installers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\installers.py',
+   'PYMODULE'),
+  ('pygments.lexers.graphics',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\graphics.py',
+   'PYMODULE'),
+  ('pygments.lexers.apdlexer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\apdlexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.parsers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\parsers.py',
+   'PYMODULE'),
+  ('pygments.lexers._julia_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_julia_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.rust',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\rust.py',
+   'PYMODULE'),
+  ('pygments.lexers.haxe',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\haxe.py',
+   'PYMODULE'),
+  ('pygments.lexers.gcodelexer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\gcodelexer.py',
+   'PYMODULE'),
+  ('pygments.lexers.forth',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\forth.py',
+   'PYMODULE'),
+  ('pygments.lexers.praat',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\praat.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_like',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\c_like.py',
+   'PYMODULE'),
+  ('pygments.lexers.archetype',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\archetype.py',
+   'PYMODULE'),
+  ('pygments.lexers.gdscript',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\gdscript.py',
+   'PYMODULE'),
+  ('pygments.lexers.c_cpp',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\c_cpp.py',
+   'PYMODULE'),
+  ('pygments.lexers.make',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\make.py',
+   'PYMODULE'),
+  ('pygments.lexers.dalvik',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\dalvik.py',
+   'PYMODULE'),
+  ('pygments.lexers.smalltalk',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\smalltalk.py',
+   'PYMODULE'),
+  ('pygments.lexers._asy_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_asy_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.dylan',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\dylan.py',
+   'PYMODULE'),
+  ('pygments.lexers.textfmts',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\textfmts.py',
+   'PYMODULE'),
+  ('pygments.lexers.ambient',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ambient.py',
+   'PYMODULE'),
+  ('pygments.lexers.ooc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\ooc.py',
+   'PYMODULE'),
+  ('pygments.lexers.modula2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\modula2.py',
+   'PYMODULE'),
+  ('pygments.lexers.fantom',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\fantom.py',
+   'PYMODULE'),
+  ('pygments.lexers.typoscript',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\typoscript.py',
+   'PYMODULE'),
+  ('pygments.lexers._php_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_php_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.web',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\web.py',
+   'PYMODULE'),
+  ('pygments.lexers.other',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\other.py',
+   'PYMODULE'),
+  ('pygments.lexers.bare',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\bare.py',
+   'PYMODULE'),
+  ('pygments.lexers._vim_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_vim_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.asm',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\asm.py',
+   'PYMODULE'),
+  ('pygments.lexers.webidl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\webidl.py',
+   'PYMODULE'),
+  ('pygments.lexers.boa',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\boa.py',
+   'PYMODULE'),
+  ('pygments.lexers.markup',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\markup.py',
+   'PYMODULE'),
+  ('pygments.lexers.email',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\email.py',
+   'PYMODULE'),
+  ('pygments.lexers.javascript',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\javascript.py',
+   'PYMODULE'),
+  ('pygments.lexers.basic',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\basic.py',
+   'PYMODULE'),
+  ('pygments.lexers.r',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\r.py',
+   'PYMODULE'),
+  ('pygments.lexers._sourcemod_builtins',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py',
+   'PYMODULE'),
+  ('pygments.lexers.eiffel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\lexers\\eiffel.py',
+   'PYMODULE'),
+  ('pygments.formatters.img',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\img.py',
+   'PYMODULE'),
+  ('pygments.formatter',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatter.py',
+   'PYMODULE'),
+  ('pygments.formatters.html',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\html.py',
+   'PYMODULE'),
+  ('pygments.formatters.svg',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\svg.py',
+   'PYMODULE'),
+  ('pygments.formatters.irc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\irc.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal256',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\terminal256.py',
+   'PYMODULE'),
+  ('pygments.console',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\console.py',
+   'PYMODULE'),
+  ('pygments.formatters.latex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\latex.py',
+   'PYMODULE'),
+  ('pygments.formatters.rtf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\rtf.py',
+   'PYMODULE'),
+  ('pygments.formatters.pangomarkup',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\pangomarkup.py',
+   'PYMODULE'),
+  ('pygments.formatters.terminal',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\terminal.py',
+   'PYMODULE'),
+  ('pygments.formatters.bbcode',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\bbcode.py',
+   'PYMODULE'),
+  ('pygments.formatters.other',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pygments\\formatters\\other.py',
+   'PYMODULE'),
+  ('kivy.uix.pagelayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\pagelayout.py',
+   'PYMODULE'),
+  ('kivy.uix.behaviors.knspace',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\behaviors\\knspace.py',
+   'PYMODULE'),
+  ('kivy.uix.recyclegridlayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recyclegridlayout.py',
+   'PYMODULE'),
+  ('kivy.core.audio',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\audio\\__init__.py',
+   'PYMODULE'),
+  ('kivy.effects.opacityscroll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\effects\\opacityscroll.py',
+   'PYMODULE'),
+  ('kivy.uix.slider',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\slider.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_pygame',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\text_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_dds',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\img_dds.py',
+   'PYMODULE'),
+  ('kivy.lib.ddsfile',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lib\\ddsfile.py',
+   'PYMODULE'),
+  ('kivy.core.window.window_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\window\\window_sdl2.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_pygame',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_pil',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\img_pil.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_picamera',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\camera\\camera_picamera.py',
+   'PYMODULE'),
+  ('kivy.uix.carousel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\carousel.py',
+   'PYMODULE'),
+  ('kivy.uix.actionbar',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\actionbar.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_ffmpeg',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\video\\video_ffmpeg.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_gtk3',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_gtk3.py',
+   'PYMODULE'),
+  ('kivy.support',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\support.py',
+   'PYMODULE'),
+  ('kivy.uix.effectwidget',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\effectwidget.py',
+   'PYMODULE'),
+  ('kivy.uix.video',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\video.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_winctypes',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_winctypes.py',
+   'PYMODULE'),
+  ('kivy.core.camera',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\camera\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.spinner',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\spinner.py',
+   'PYMODULE'),
+  ('kivy.uix.treeview',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\treeview.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_opencv',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\camera\\camera_opencv.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_nspaste',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_nspaste.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.progressbar',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\progressbar.py',
+   'PYMODULE'),
+  ('kivy.uix.checkbox',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\checkbox.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_ffpyplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\audio\\audio_ffpyplayer.py',
+   'PYMODULE'),
+  ('kivy.core.spelling.spelling_enchant',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\spelling\\spelling_enchant.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_android',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\camera\\camera_android.py',
+   'PYMODULE'),
+  ('kivy.core.text.text_pil',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\text_pil.py',
+   'PYMODULE'),
+  ('kivy.weakmethod',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\weakmethod.py',
+   'PYMODULE'),
+  ('kivy.core.video',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\video\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.switch',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\switch.py',
+   'PYMODULE'),
+  ('kivy.uix.videoplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\videoplayer.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_ffpyplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\video\\video_ffpyplayer.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleboxlayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recycleboxlayout.py',
+   'PYMODULE'),
+  ('kivy.uix.camera',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\camera.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_xsel',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_xsel.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_gstplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\audio\\audio_gstplayer.py',
+   'PYMODULE'),
+  ('kivy.core.video.video_null',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\video\\video_null.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.layout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recycleview\\layout.py',
+   'PYMODULE'),
+  ('kivy.graphics.cgl_backend',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.splitter',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\splitter.py',
+   'PYMODULE'),
+  ('kivy.uix.accordion',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\accordion.py',
+   'PYMODULE'),
+  ('kivy.uix.recyclelayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recyclelayout.py',
+   'PYMODULE'),
+  ('kivy.core.window.window_pygame',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\window\\window_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_pygame',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\img_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.camera.camera_gi',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\camera\\camera_gi.py',
+   'PYMODULE'),
+  ('kivy.uix.stacklayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\stacklayout.py',
+   'PYMODULE'),
+  ('kivy.uix.dropdown',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\dropdown.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\img_sdl2.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_android',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_android.py',
+   'PYMODULE'),
+  ('kivy.uix.scatterlayout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\scatterlayout.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_ffpyplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\img_ffpyplayer.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_pygame',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\audio\\audio_pygame.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_dbusklipper',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_dbusklipper.py',
+   'PYMODULE'),
+  ('kivy.uix.gesturesurface',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\gesturesurface.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('kivy.uix.colorpicker',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\colorpicker.py',
+   'PYMODULE'),
+  ('kivy.gesture',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\gesture.py',
+   'PYMODULE'),
+  ('kivy.core.image.img_tex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\img_tex.py',
+   'PYMODULE'),
+  ('kivy.uix.rst',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\rst.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\__init__.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.en',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\en.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\__init__.py',
+   'PYMODULE'),
+  ('docutils.languages',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\__init__.py',
+   'PYMODULE'),
+  ('docutils.utils',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\__init__.py',
+   'PYMODULE'),
+  ('docutils.utils.smartquotes',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\smartquotes.py',
+   'PYMODULE'),
+  ('docutils.utils.urischemes',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\urischemes.py',
+   'PYMODULE'),
+  ('docutils.utils.roman',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\roman.py',
+   'PYMODULE'),
+  ('docutils.utils.punctuation_chars',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\punctuation_chars.py',
+   'PYMODULE'),
+  ('docutils.utils.error_reporting',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\error_reporting.py',
+   'PYMODULE'),
+  ('docutils.io',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\io.py',
+   'PYMODULE'),
+  ('docutils.frontend',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\frontend.py',
+   'PYMODULE'),
+  ('docutils.nodes',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\nodes.py',
+   'PYMODULE'),
+  ('docutils.transforms',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\__init__.py',
+   'PYMODULE'),
+  ('docutils.transforms.parts',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\parts.py',
+   'PYMODULE'),
+  ('docutils.transforms.components',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\components.py',
+   'PYMODULE'),
+  ('docutils.transforms.misc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\misc.py',
+   'PYMODULE'),
+  ('docutils.transforms.references',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\references.py',
+   'PYMODULE'),
+  ('docutils.transforms.frontmatter',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\frontmatter.py',
+   'PYMODULE'),
+  ('docutils.transforms.writer_aux',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\writer_aux.py',
+   'PYMODULE'),
+  ('docutils.transforms.universal',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\transforms\\universal.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('docutils',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\__init__.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.tables',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\tables.py',
+   'PYMODULE'),
+  ('docutils.statemachine',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\statemachine.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.body',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\body.py',
+   'PYMODULE'),
+  ('docutils.utils.code_analyzer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\code_analyzer.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.admonitions',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\admonitions.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.states',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\states.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.tableparser',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\tableparser.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.parts',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\parts.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.images',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\images.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.references',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\references.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.misc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\misc.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.directives.html',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\directives\\html.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.da',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\da.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.zh_tw',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\zh_tw.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.zh_cn',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\zh_cn.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.pl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\pl.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.nl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\nl.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.af',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\af.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.de',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\de.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.lt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\lt.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.gl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\gl.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.fr',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fr.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.sv',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\sv.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.lv',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\lv.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ru',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ru.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.it',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\it.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ca',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ca.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ko',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ko.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.cs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\cs.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.es',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\es.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.sk',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\sk.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.eo',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\eo.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.pt_br',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\pt_br.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ja',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ja.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.ar',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\ar.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.he',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\he.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.fi',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fi.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.languages.fa',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\languages\\fa.py',
+   'PYMODULE'),
+  ('docutils.writers.docutils_xml',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\docutils_xml.py',
+   'PYMODULE'),
+  ('docutils.writers.pseudoxml',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\pseudoxml.py',
+   'PYMODULE'),
+  ('docutils.writers.odf_odt.pygmentsformatter',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\odf_odt\\pygmentsformatter.py',
+   'PYMODULE'),
+  ('docutils.writers.html4css1',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html4css1\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.odf_odt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\odf_odt\\__init__.py',
+   'PYMODULE'),
+  ('docutils.readers.standalone',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\readers\\standalone.py',
+   'PYMODULE'),
+  ('docutils.readers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\readers\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.s5_html',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.null',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\null.py',
+   'PYMODULE'),
+  ('docutils.writers.latex2e',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\__init__.py',
+   'PYMODULE'),
+  ('docutils.utils.math.unichar2tex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\math\\unichar2tex.py',
+   'PYMODULE'),
+  ('docutils.utils.math',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\math\\__init__.py',
+   'PYMODULE'),
+  ('docutils.utils.math.tex2mathml_extern',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\math\\tex2mathml_extern.py',
+   'PYMODULE'),
+  ('docutils.utils.math.latex2mathml',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\math\\latex2mathml.py',
+   'PYMODULE'),
+  ('docutils.utils.math.tex2unichar',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\math\\tex2unichar.py',
+   'PYMODULE'),
+  ('docutils.utils.math.math2html',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\utils\\math\\math2html.py',
+   'PYMODULE'),
+  ('docutils.writers._html_base',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\_html_base.py',
+   'PYMODULE'),
+  ('docutils.writers.manpage',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\manpage.py',
+   'PYMODULE'),
+  ('docutils.writers.xetex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\xetex\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.pep_html',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\pep_html\\__init__.py',
+   'PYMODULE'),
+  ('docutils.writers.html5_polyglot',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\__init__.py',
+   'PYMODULE'),
+  ('docutils.languages.ca',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\ca.py',
+   'PYMODULE'),
+  ('docutils.languages.zh_tw',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\zh_tw.py',
+   'PYMODULE'),
+  ('docutils.languages.zh_cn',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\zh_cn.py',
+   'PYMODULE'),
+  ('docutils.languages.da',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\da.py',
+   'PYMODULE'),
+  ('docutils.languages.af',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\af.py',
+   'PYMODULE'),
+  ('docutils.languages.ru',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\ru.py',
+   'PYMODULE'),
+  ('docutils.languages.fr',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\fr.py',
+   'PYMODULE'),
+  ('docutils.languages.lv',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\lv.py',
+   'PYMODULE'),
+  ('docutils.languages.fa',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\fa.py',
+   'PYMODULE'),
+  ('docutils.languages.eo',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\eo.py',
+   'PYMODULE'),
+  ('docutils.languages.pt_br',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\pt_br.py',
+   'PYMODULE'),
+  ('docutils.languages.sv',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\sv.py',
+   'PYMODULE'),
+  ('docutils.languages.gl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\gl.py',
+   'PYMODULE'),
+  ('docutils.languages.de',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\de.py',
+   'PYMODULE'),
+  ('docutils.languages.cs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\cs.py',
+   'PYMODULE'),
+  ('docutils.languages.ar',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\ar.py',
+   'PYMODULE'),
+  ('docutils.languages.en',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\en.py',
+   'PYMODULE'),
+  ('docutils.languages.ja',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\ja.py',
+   'PYMODULE'),
+  ('docutils.languages.es',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\es.py',
+   'PYMODULE'),
+  ('docutils.languages.it',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\it.py',
+   'PYMODULE'),
+  ('docutils.languages.he',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\he.py',
+   'PYMODULE'),
+  ('docutils.languages.lt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\lt.py',
+   'PYMODULE'),
+  ('docutils.languages.sk',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\sk.py',
+   'PYMODULE'),
+  ('docutils.languages.pl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\pl.py',
+   'PYMODULE'),
+  ('docutils.languages.nl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\nl.py',
+   'PYMODULE'),
+  ('docutils.languages.ko',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\ko.py',
+   'PYMODULE'),
+  ('docutils.languages.fi',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\languages\\fi.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst.roles',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\roles.py',
+   'PYMODULE'),
+  ('docutils.parsers.rst',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\__init__.py',
+   'PYMODULE'),
+  ('docutils.parsers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('kivy.core.audio.audio_avplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\audio\\audio_avplayer.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_sdl2.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard._clipboard_ext',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\_clipboard_ext.py',
+   'PYMODULE'),
+  ('kivy.multistroke',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\multistroke.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.__init__',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recycleview\\__init__.py',
+   'PYMODULE'),
+  ('kivy.uix.recycleview.views',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\recycleview\\views.py',
+   'PYMODULE'),
+  ('kivy.core.clipboard.clipboard_xclip',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\clipboard_xclip.py',
+   'PYMODULE'),
+  ('kivy.uix.sandbox',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\uix\\sandbox.py',
+   'PYMODULE'),
+  ('kivy_deps',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy_deps\\__init__.py',
+   'PYMODULE'),
+  ('kivy.deps',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\deps\\__init__.py',
+   'PYMODULE'),
+  ('kivy._version',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\_version.py',
+   'PYMODULE')])

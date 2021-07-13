@@ -1,0 +1,1016 @@
+('C:\\Users\\wycto\\OneDrive\\Área de Trabalho\\BOTS\\Bot '
+ 'Youtube\\build\\Bot_youtube_views\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\wycto\\OneDrive\\Área de Trabalho\\BOTS\\Bot '
+   'Youtube\\build\\Bot_youtube_views\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\wycto\\OneDrive\\Área de Trabalho\\BOTS\\Bot '
+   'Youtube\\build\\Bot_youtube_views\\localpycos\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_certifi',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_certifi.py',
+   'PYSOURCE'),
+  ('pyi_rth_kivy',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_kivy.py',
+   'PYSOURCE'),
+  ('pyi_rth_gstreamer',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_gstreamer.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32api',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32api.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'C:\\Users\\wycto\\OneDrive\\Área de '
+   'Trabalho\\BOTS\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('Bot_youtube_views',
+   'C:\\Users\\wycto\\OneDrive\\Área de Trabalho\\BOTS\\Bot '
+   'Youtube\\Bot_youtube_views.py',
+   'PYSOURCE'),
+  ('python39.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\python39.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('pywintypes39.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pywin32_system32\\pywintypes39.dll',
+   'BINARY'),
+  ('pythoncom39.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pywin32_system32\\pythoncom39.dll',
+   'BINARY'),
+  ('win32trace',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32api',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('_uuid',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('win32com.shell.shell',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('kivy._event',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\_event.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.text.text_layout',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\text_layout.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.context',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\context.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.properties',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\properties.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.transformation',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\transformation.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.image._img_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\image\\_img_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.weakproxy',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\weakproxy.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.texture',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\texture.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.context_instructions',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\context_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.scissor_instructions',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\scissor_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.fbo',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\fbo.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.gl_instructions',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\gl_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.stencil_instructions',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\stencil_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.vertex_instructions',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\vertex_instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.instructions',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\instructions.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.opengl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\opengl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.opengl_utils',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\opengl_utils.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\cgl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy._clock',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\_clock.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32file',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\win32file.pyd',
+   'EXTENSION'),
+  ('kivy.lib.gstplayer._gstplayer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\lib\\gstplayer\\_gstplayer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.window._window_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\window\\_window_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_mock',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_mock.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_gl',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_gl.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.buffer',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\buffer.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.text._text_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\text\\_text_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_debug',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_debug.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.compiler',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\compiler.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.cgl_backend.cgl_glew',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\cgl_backend\\cgl_glew.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.clipboard._clipboard_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\clipboard\\_clipboard_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.core.audio.audio_sdl2',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\audio\\audio_sdl2.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.vertex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\vertex.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.tesselator',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\tesselator.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32gui',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('kivy.core.window.window_info',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\core\\window\\window_info.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.svg',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\svg.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.vbo',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\vbo.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('kivy.graphics.shader',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\graphics\\shader.cp39-win_amd64.pyd',
+   'EXTENSION'),
+  ('mfc140u.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.1776.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\share\\sdl2\\bin\\SDL2_image.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\share\\sdl2\\bin\\SDL2.dll',
+   'BINARY'),
+  ('glew32.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\share\\glew\\bin\\glew32.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\share\\sdl2\\bin\\SDL2_ttf.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\share\\sdl2\\bin\\SDL2_mixer.dll',
+   'BINARY'),
+  ('libfreetype-6.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\share\\sdl2\\bin\\libfreetype-6.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\share\\sdl2\\bin\\zlib1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\wycto\\OneDrive\\Área de Trabalho\\BOTS\\Bot '
+   'Youtube\\build\\Bot_youtube_views\\base_library.zip',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\minimal.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\minimal.css',
+   'DATA'),
+  ('kivy_install\\modules\\cursor.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\cursor.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr1.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\joycursor.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\touchring.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\touchring.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\inspector.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\console.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\console.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\README.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\README.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.ico',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.ico',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\docutils.sty',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\docutils.sty',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\__base__',
+   'DATA'),
+  ('docutils\\writers\\odf_odt\\styles.odt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\odf_odt\\styles.odt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsa.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-128.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-128.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk1.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\xelatex.tex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\xelatex.tex',
+   'DATA'),
+  ('kivy_install\\modules\\inspector.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\inspector.py',
+   'DATA'),
+  ('kivy_install\\modules\\_webdebugger.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\_webdebugger.py',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\responsive.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\responsive.css',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\de.json',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\screen.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsr.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsb.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-BoldItalic.ttf',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\touchring.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme.atlas',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\defaulttheme.atlas',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.zip',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\image-loading.zip',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\framing.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlingpage.tex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\titlingpage.tex',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomopf-wide.txt',
+   'DATA'),
+  ('kivy_install\\modules\\monitor.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\monitor.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isopub.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isopub.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isocyr2.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\README.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\README.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\tuftig.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\tuftig.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-special.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\fr_CH.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\fr_CH.json',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\template.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html4css1\\template.txt',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\en_US.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\en_US.json',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\pretty.css',
+   'DATA'),
+  ('kivy_install\\data\\images\\testpattern.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\testpattern.png',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.vs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\glsl\\default.vs',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\pretty.css',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwerty.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\qwerty.json',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\__base__',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.fs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\glsl\\default.fs',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isobox.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isobox.txt',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\plain.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\plain.css',
+   'DATA'),
+  ('kivy_install\\data\\images\\cursor.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\cursor.png',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Bold.ttf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Bold.ttf',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\default.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\glsl\\default.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.js',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Italic.ttf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Italic.ttf',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\template.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\template.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\RobotoMono-Regular.ttf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\fonts\\RobotoMono-Regular.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isotech.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isotech.txt',
+   'DATA'),
+  ('kivy_install\\modules\\joycursor.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\joycursor.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\showborder.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\console.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\console.py',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\default.tex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\default.tex',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-16.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-16.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\iepngfix.htc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\s5defs.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\s5defs.txt',
+   'DATA'),
+  ('docutils\\writers\\latex2e\\titlepage.tex',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\latex2e\\titlepage.tex',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\opera.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\blank.gif',
+   'DATA'),
+  ('kivy_install\\modules\\keybinding.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\keybinding.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlalias.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-64.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-64.png',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\pep.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\pep_html\\pep.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat1.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat1.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\background.jpg',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\background.jpg',
+   'DATA'),
+  ('kivy_install\\data\\images\\image-loading.gif',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\image-loading.gif',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk4.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__init__.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__init__.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\monitor.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaulttheme-0.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\defaulttheme-0.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\recorder.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-48.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-48.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isodia.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isodia.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-white\\framing.css',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\qwertz.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\qwertz.json',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\modules\\showborder.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\showborder.py',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\__init__.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\de_CH.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\de_CH.json',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk-wide.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-white\\pretty.css',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\cursor.cpython-39.pyc',
+   'DATA'),
+  ('kivy_install\\data\\keyboards\\azerty.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\keyboards\\azerty.json',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomscr-wide.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra-wide.txt',
+   'DATA'),
+  ('kivy_install\\data\\settings_kivy.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\settings_kivy.json',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\outline.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-black\\pretty.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\slides.css',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.vs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\glsl\\header.vs',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\pretty.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isomfrk.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\__base__',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-32.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-32.png',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\Roboto-Regular.ttf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\fonts\\Roboto-Regular.ttf',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-24.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-24.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsc.txt',
+   'DATA'),
+  ('kivy_install\\data\\images\\defaultshape.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\images\\defaultshape.png',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-lat1.txt',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-256.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-256.png',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\_webdebugger.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamsn.txt',
+   'DATA'),
+  ('docutils\\writers\\pep_html\\template.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\pep_html\\template.txt',
+   'DATA'),
+  ('kivy_install\\data\\glsl\\header.fs',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\glsl\\header.fs',
+   'DATA'),
+  ('docutils\\writers\\html4css1\\html4css1.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html4css1\\html4css1.css',
+   'DATA'),
+  ('kivy_install\\modules\\screen.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\screen.py',
+   'DATA'),
+  ('docutils\\writers\\html5_polyglot\\math.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\html5_polyglot\\math.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\s5-core.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isonum.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isonum.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\mmlextra.txt',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isogrk3.txt',
+   'DATA'),
+  ('kivy_install\\data\\style.kv',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\style.kv',
+   'DATA'),
+  ('kivy_install\\modules\\recorder.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\recorder.py',
+   'DATA'),
+  ('kivy_install\\data\\logo\\kivy-icon-512.png',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\logo\\kivy-icon-512.png',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\small-black\\pretty.css',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\medium-white\\framing.css',
+   'DATA'),
+  ('kivy_install\\modules\\webdebugger.py',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\webdebugger.py',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isolat2.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isolat2.txt',
+   'DATA'),
+  ('kivy_install\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\modules\\__pycache__\\keybinding.cpython-39.pyc',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\big-black\\framing.css',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\xhtml1-symbol.txt',
+   'DATA'),
+  ('kivy_install\\data\\fonts\\DejaVuSans.ttf',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\kivy\\data\\fonts\\DejaVuSans.ttf',
+   'DATA'),
+  ('docutils\\parsers\\rst\\include\\isoamso.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\parsers\\rst\\include\\isoamso.txt',
+   'DATA'),
+  ('docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\docutils\\writers\\s5_html\\themes\\default\\print.css',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\DESCRIPTION.rst',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\DESCRIPTION.rst',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\top_level.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\altgraph-0.17.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\REQUESTED',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\REQUESTED',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\zip-safe',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\altgraph-0.17.dist-info\\zip-safe',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\WHEEL',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\RECORD',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\RECORD',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\LICENSE.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\METADATA',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\altgraph-0.17.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\entry_points.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\entry_points.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\LICENSE',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\altgraph-0.17.dist-info\\LICENSE',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\INSTALLER',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\METADATA',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\METADATA',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\metadata.json',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\metadata.json',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\RECORD',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\altgraph-0.17.dist-info\\RECORD',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\WHEEL',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\altgraph-0.17.dist-info\\WHEEL',
+   'DATA'),
+  ('pyinstaller-4.4.dist-info\\top_level.txt',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\pyinstaller-4.4.dist-info\\top_level.txt',
+   'DATA'),
+  ('altgraph-0.17.dist-info\\INSTALLER',
+   'c:\\users\\wycto\\onedrive\\área de '
+   'trabalho\\bots\\venv\\lib\\site-packages\\altgraph-0.17.dist-info\\INSTALLER',
+   'DATA'),
+  ('Bot_youtube_views.exe.manifest',
+   'C:\\Users\\wycto\\OneDrive\\Área de Trabalho\\BOTS\\Bot '
+   'Youtube\\build\\Bot_youtube_views\\Bot_youtube_views.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename Bot_youtube_views.exe.manifest',
+   '',
+   'OPTION')],
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
